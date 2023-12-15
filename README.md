@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wonderbeat&theme=synthwave)](https://git.io/streak-stats)
+![details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wonderbeat&theme=tokyonight)
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wonderbeat&theme=synthwave)](https://git.io/streak-stats)
+![languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wonderbeat&theme=synthwave)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wonderbeat&theme=darkhub&rank=-C,-B,-A)](https://github.com/ryo-ma/github-profile-trophy)
