@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![details](http://github-profile-summary-cards.vercel.app/api/cards/profile-detail?username=wonderbeat&theme=tokyonight)
+![Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wonderbeat&theme=tokyonight) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wonderbeat&theme=synthwave)](https://git.io/streak-stats)
 ![languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wonderbeat&theme=synthwave)
